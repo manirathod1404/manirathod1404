@@ -59,8 +59,9 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manibenrathod&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manirathod1404&show_icons=true&theme=tokyonight)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manibenrathod&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manirathod1404&theme=tokyonight)
+
