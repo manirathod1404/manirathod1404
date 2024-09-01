@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=manibenrathod.manibenrathod)
 
-[![Github](https://img.shields.io/github/followers/manibenrathod?label=Follow&style=social)](https://github.com/manibenrathod)
+[![Github](https://img.shields.io/github/followers/manirathod1404?label=Follow&style=social)](https://github.com/manirathod1404)
 
 ## ✉️ Find me at:
 
