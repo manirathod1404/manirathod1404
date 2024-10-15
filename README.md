@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am Maniben Rathod, an Environmental Engineering undergrad from IIT(ISM) Dhanbad, India.
+### I am Maniben Rathod, an undergrad from IIT(ISM) Dhanbad, India.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=manibenrathod.manibenrathod)
 
